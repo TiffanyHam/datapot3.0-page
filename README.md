@@ -3,6 +3,11 @@
 > 此项目是基于vue + element ui + vue-router的前后端分离基础权限管理后台系统
 
 # 技术栈
+"vue": "^2.5.2"
+"vue-router": "^3.0.1"
+"mockjs": "^1.0.1-beta3",
+"axios": "^0.17.1",
+"element-ui": "^2.0.5",
 
 > "vue": "^2.5.11",
 > "vuex": "^3.0.1",
