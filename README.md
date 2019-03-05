@@ -1,6 +1,6 @@
 # datapot-om
 
-> A Vue.js project
+> 此项目是基于vue + element ui的前后端分离基础权限管理后台系统
 
 ## Build Setup
 
