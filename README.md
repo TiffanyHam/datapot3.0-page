@@ -2,6 +2,8 @@
 
 > 此项目是基于vue + element ui + vue-router的前后端分离基础权限管理后台系统
 
+# 技术栈
+
 ## Build Setup
 
 ``` bash
