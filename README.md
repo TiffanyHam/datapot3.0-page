@@ -26,3 +26,9 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+![images](https://github.com/TiffanyHam/datapot3.0-page/blob/master/readme-pic/om01.png)
+![images](https://github.com/TiffanyHam/datapot3.0-page/blob/master/readme-pic/om02.png)
+![images](https://github.com/TiffanyHam/datapot3.0-page/blob/master/readme-pic/om03.png)
+![images](https://github.com/TiffanyHam/datapot3.0-page/blob/master/readme-pic/om04.png)
+![images](https://github.com/TiffanyHam/datapot3.0-page/blob/master/readme-pic/om05.png)
