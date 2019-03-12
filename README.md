@@ -1,6 +1,6 @@
 # datapot-om
 
-> 此项目是基于vue + element ui + vue-router的前后端分离基础权限管理后台系统
+> 此项目是基于 Vue2.0，配合使用 Element I 组件库的一个权限管理后台系统.
 
 ## 技术栈
 
